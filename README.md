@@ -7,6 +7,9 @@
 
 ### 인적 사항
 
+
+![Profile](https://github.com/EatNug/RESUME/blob/master/statics/images/Profile.jpg)
+
 - 이름: 박건태
 - 생일: 1996.08.30
 - 병역: 공군 병장 만기전역(2017.02.13 ~ 2019.02.02.)
