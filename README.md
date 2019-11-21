@@ -7,7 +7,7 @@
 
 ### 인적 사항
 
-<img src="https://github.com/EatNug/RESUME/blob/master/statics/images/Profile.jpg" width="400" height="350">
+<img src="https://github.com/EatNug/RESUME/blob/master/statics/images/Profile.jpg" width="400" height="450">
 
 - 이름: 박건태
 - 생일: 1996.08.30
