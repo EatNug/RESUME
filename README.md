@@ -1,7 +1,10 @@
 # 이력서
-\- 2019.11.12<br>
+
+[![HitCount](http://hits.dwyl.io/eaTnuG/RESUME.svg)](http://hits.dwyl.io/eaTnuG/RESUME)
 
 웹 개발자 박건태의 이력서 입니다.
+
+\- 2019.11.29<br>
 
 ## 프로필
 
