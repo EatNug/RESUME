@@ -41,6 +41,9 @@
 - 문서화
 - GraphQL
 - Clean Code
+- Concurrency Control
+- Database
+- Visualization
 
 
 ## 기술
