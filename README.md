@@ -15,7 +15,7 @@
 - 이름: 박건태
 - 생일: 1996.08.30
 - 병역: 공군 병장 만기전역(2017.02.13 ~ 2019.02.02.)
-- 상태: 대학 재학 중
+- 상태: 
 - 이메일: wlq4568@gmail.com
 - Github: https://github.com/EatNug
 
@@ -42,8 +42,8 @@
 - GraphQL
 - Clean Code
 - Concurrency Control
-- Database
-- Visualization
+- Typescript
+- ReactNative
 
 
 ## 기술
