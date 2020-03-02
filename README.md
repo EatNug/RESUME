@@ -1,37 +1,37 @@
 # 이력서
 
-[![HitCount](http://hits.dwyl.io/eaTnuG/RESUME.svg)](http://hits.dwyl.io/eaTnuG/RESUME)
+![editedAt](https://img.shields.io/github/last-commit/eatnug/resume?label=edited%20at)
+![status](https://img.shields.io/badge/currently-employed-inactive)
 
-웹 개발자 박건태의 이력서 입니다.
-
-\- 2019.12.30<br>
 
 ## 프로필
 
 ### 인적 사항
 
-<img src="https://github.com/EatNug/RESUME/blob/master/statics/images/Profile.jpg" width="400" height="450">
+<img src="https://github.com/EatNug/RESUME/blob/master/statics/images/Profile.jpg" width="400" height="auto">
 
 - 이름: 박건태
 - 생일: 1996.08.30
 - 병역: 공군 병장 만기전역(2017.02. ~ 2019.02.)
-- 상태: 구직 중
 - 이메일: wlq4568@gmail.com
 - Github: https://github.com/EatNug
 
 ### 좋아하는 것
 
-- 작은 성취
+- **진짜**
+- 작은 성취의 반복
 - 꾸준함
-- 헬스
-- 대화와 소통
+- 대화
 - 새로운 기술 접해보기
+- 책읽기
+- 운동
+- 전혀 모르는 분야 공부하기
 
 ### 싫어하는 것
 
-- 부조리
-- 합리적이지 못한 것
+- **가짜**
 - 척 하는 것
+- '그냥' 하는 것
 
 ### 현재 관심사
 
@@ -43,44 +43,36 @@
 - Clean Code
 - Concurrency Control
 - Typescript
-- React Native
-
+- Database
+- 
 
 ## 기술
 
-### 언어
-
-- __Python, Javascript__ 는 능숙하게 사용할 수 있습니다.
-- __C, Java, Shell Script__ 도 레퍼런스를 참고하며 사용할 수 있습니다.
-
 ### 클라이언트
 
-- __HTML5, CSS3__.
+- HTML5, CSS3.
 - __Vanila JS ES6+__.
-- __React.js__. redux 패턴에 익숙합니다.
+- __React & React Native__ / redux, redux-saga.
 
 ### 서버 
 
-- __Express.js__.
-- __Django & DRF__.
+- __Node.js & Express.js__.
+- __Python Django & DRF__.
+
+### 그 외
+
+- Git, Git-flow, Github
+- jest
+- webpack, babel
 
 ## 경력
 
-### 개인 프로젝트
+### [필통](http://pilltong.me/)
 
-#### hufSniper
-
-- 소개: 한국외국어대학교 수강신청 정정기간에 내가 원하는 수업에 빈 자리가 생기면 알려주는 웹 어플리케이션입니다. 최초에는 Express만으로 구현했다가 최근 리팩토링해서, 백엔드는 Express를 이용해 API 서버를 만들었고, 프론트엔드는 React를 활용해 서로 통신하도록 구현했습니다.
-- 기술: Express.js & React.js
-- 현황: 2019.09.03 ~ 기능 구현 완료 후 CSS 작업 보류 중
-- [Github Repository](https://github.com/EatNug/hufSniper)
-
-#### Later
-
-- 소개: 구글링 하면서 찾은 좋은 글들을 나중에 봐야지 생각만 하고 그냥 잊어버리는게 싫어서 이를 간단하게 보관하고 확인하기 위해 만든 크롬 익스텐션 입니다. 
-- 기술: Vanila JS for Chrome API & React.js
-- 현황: 2019.11.08 ~ 기능 일부 구현, React 이식 작업 중 
-- [Github Repository](https://github.com/EatNug/Later)
+- 서울특별시 종로구
+- 2020.01 ~ 
+- React Native 모바일 클라이언트 개발
+- React PWA 개발
 
 ## 학력
 
@@ -90,6 +82,24 @@
 - 본전공: 국제학
 - 이중전공: 융복합 소프트웨어
 - 2015.03 ~ 2019.12 6학기 수료 후 휴학.
+
+## 프로젝트
+
+### hufSniper
+
+- 소개: 한국외국어대학교 수강신청 정정기간에 내가 원하는 수업에 빈 자리가 생기면 알려주는 웹 어플리케이션입니다. 최초에는 Express만으로 구현했다가 최근 리팩토링해서, 백엔드는 Express를 이용해 API 서버를 만들었고, 프론트엔드는 React를 활용해 서로 통신하도록 구현했습니다.
+- 기술: Express.js & React.js
+- 현황: 2019.09.03 ~ 기능 구현 완료 후 CSS 작업 보류 중
+- [repo](https://github.com/EatNug/hufSniper)
+
+### Later
+
+- 소개: 구글링 하면서 찾은 좋은 글들을 나중에 봐야지 생각만 하고 그냥 잊어버리는게 싫어서 이를 간단하게 보관하고 확인하기 위해 만든 크롬 익스텐션 입니다. 
+- 기술: Vanila JS for Chrome API & React.js
+- 현황: 2019.11.08 ~ 기능 일부 구현, React 이식 작업 중 
+- [repo](https://github.com/EatNug/Later)
+
+
 
 ## 활동
 
