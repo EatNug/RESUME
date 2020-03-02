@@ -44,7 +44,6 @@
 - Concurrency Control
 - Typescript
 - Database
-- 
 
 ## 기술
 
