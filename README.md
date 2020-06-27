@@ -15,6 +15,7 @@
 - 병역: 공군 병장 만기전역(2017.02. ~ 2019.02.)
 - 이메일: wlq4568@gmail.com
 - Github: https://github.com/EatNug
+- 블로그: https://eatnug.github.io/
 
 ### 좋아하는 것
 
@@ -38,25 +39,34 @@
 - 아키텍쳐 설계
 - CI/CD
 - TDD
-- 문서화
-- GraphQL
 - Clean Code
 - Concurrency Control
 - Typescript
 - Database
+- Golang
 
 ## 기술
 
 ### 클라이언트
 
+#### ___익숙함___
 - HTML5, CSS3.
-- __Vanila JS ES6+__.
-- __React & React Native__ / redux, redux-saga.
+- Vanila JS ES6+.
+- React & React Native / redux, redux-saga.
+
+#### ___경험해 봄___
+- TypeScript
+
 
 ### 서버 
 
-- __Node.js & Express.js__.
-- __Python Django & DRF__.
+#### ___익숙함___
+- Express.js.
+- Django & DRF.
+
+#### ___경험해 봄___
+- Nest.js
+- Ruby on Rails
 
 ### 그 외
 
@@ -70,8 +80,8 @@
 
 - 서울특별시 종로구
 - 2020.01 ~ 
-- React Native 모바일 클라이언트 개발
-- React PWA 개발
+- 클라이언트 개발자
+- Typescript, React, React-Native.
 
 ## 학력
 
@@ -83,6 +93,8 @@
 - 2015.03 ~ 2019.12 6학기 수료 후 휴학.
 
 ## 프로젝트
+
+###
 
 ### hufSniper
 
