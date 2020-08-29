@@ -3,12 +3,11 @@
 ![editedAt](https://img.shields.io/github/last-commit/eatnug/resume?label=edited%20at)
 ![status](https://img.shields.io/badge/currently-employed-inactive)
 
-
 ## 프로필
 
 ### 인적 사항
 
-<img src="https://github.com/EatNug/RESUME/blob/master/statics/images/Profile.jpg" width="400" height="auto">
+<img src="https://github.com/EatNug/RESUME/blob/master/statics/images/Profile.jpeg" width="400" height="auto">
 
 - 이름: 박건태
 - 생일: 1996.08.30
@@ -49,22 +48,25 @@
 
 ### 클라이언트
 
-#### ___익숙함___
+#### **_익숙함_**
+
 - HTML5, CSS3.
 - Vanila JS ES6+.
 - React & React Native / redux, redux-saga.
 
-#### ___경험해 봄___
+#### **_경험해 봄_**
+
 - TypeScript
 
+### 서버
 
-### 서버 
+#### **_익숙함_**
 
-#### ___익숙함___
 - Express.js.
 - Django & DRF.
 
-#### ___경험해 봄___
+#### **_경험해 봄_**
+
 - Nest.js
 - Ruby on Rails
 
@@ -79,7 +81,7 @@
 ### [필통](http://pilltong.me/)
 
 - 서울특별시 종로구
-- 2020.01 ~ 
+- 2020.01 ~
 - 클라이언트 개발자
 - Typescript, React, React-Native.
 
@@ -105,12 +107,10 @@
 
 ### Later
 
-- 소개: 구글링 하면서 찾은 좋은 글들을 나중에 봐야지 생각만 하고 그냥 잊어버리는게 싫어서 이를 간단하게 보관하고 확인하기 위해 만든 크롬 익스텐션 입니다. 
+- 소개: 구글링 하면서 찾은 좋은 글들을 나중에 봐야지 생각만 하고 그냥 잊어버리는게 싫어서 이를 간단하게 보관하고 확인하기 위해 만든 크롬 익스텐션 입니다.
 - 기술: Vanila JS for Chrome API & React.js
-- 현황: 2019.11.08 ~ 기능 일부 구현, React 이식 작업 중 
+- 현황: 2019.11.08 ~ 기능 일부 구현, React 이식 작업 중
 - [repo](https://github.com/EatNug/Later)
-
-
 
 ## 활동
 
