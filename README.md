@@ -42,25 +42,22 @@
 - TDD
 - Clean Code
 - Concurrency Control
-- Typescript
 - Database
-- Golang
+- DevOps
 
 ## 기술
 
-### 클라이언트
+### 프론트엔드
 
 #### **_익숙함_**
 
 - HTML5, CSS3.
-- Vanila JS ES6+.
+- Vanila JS ES6+, Typescript.
 - React & React Native / redux, redux-saga.
 
 #### **_경험해 봄_**
 
-- TypeScript
-
-### 서버
+### 백엔드 & etc.
 
 #### **_익숙함_**
 
@@ -69,23 +66,37 @@
 
 #### **_경험해 봄_**
 
-- Nest.js
-- Ruby on Rails
+- Nest.js.
+- Ruby on Rails.
+- postgres
+- docker, docker-compose
 
 ### 그 외
 
-- Git, Git-flow, Github
-- jest
+- Git, Git-flow, Github, Github actions
+- jest, Detox
 - webpack, babel
+- fastlane, codepush
 
 ## 경력
 
 ### [필통](http://pilltong.me/)
 
 - 서울특별시 종로구
-- 2020.01 ~
+- 2020.01 ~ 현재
 - 클라이언트 개발자
-- Typescript, React, React-Native.
+- 배달약국 앱 [ios](https://apps.apple.com/kr/app/%EB%B0%B0%EB%8B%AC%EC%95%BD%EA%B5%AD/id1513718380)/[android](https://play.google.com/store/apps/details?id=com.baedalyakgook_user)
+  - Typescript, React, React-Native.
+  - redux, redux-saga.
+  - detox 를 이용한 e2e 테스트.
+  - codepush와 fastlane을 이용한 배포 트랙 구축.
+  - android, ios 프로젝트 세팅부터 프로덕트 개발, 마켓 출시까지 100% 개발 참여.
+- 배달약국 약사님 앱 [android](https://play.google.com/store/apps/details?id=com.baedalyakgook_pharm)
+  - Typescript, React, React-Native.
+  - redux, redux-saga.
+  - detox 를 이용한 e2e 테스트.
+  - codepush와 fastlane을 이용한 배포 트랙 구축.
+  - android, ios 프로젝트 세팅부터 마켓 출시 등 작업 100% 참여, 프로덕트 개발 일부 참여.
 
 ## 학력
 
@@ -94,11 +105,9 @@
 - 한국외국어대학교 서울 캠퍼스
 - 본전공: 국제학
 - 이중전공: 융복합 소프트웨어
-- 2015.03 ~ 2019.12 6학기 수료 후 휴학.
+- 2015.03 ~ 2020.08 7학기 수료 후 휴학.
 
 ## 프로젝트
-
-###
 
 ### hufSniper
 
