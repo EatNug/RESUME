@@ -61,6 +61,8 @@
 - Sass.
 - GraphQL.
 - Gatsby.js
+- java for android app
+- obj-c for ios app
 
 ### 백엔드 & etc.
 
